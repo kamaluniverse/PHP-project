@@ -12,7 +12,7 @@
 
 <main>
 
-<?php  load_template('_login'); ?>
+<?php  load_template('_signup'); ?>
 
 
 
