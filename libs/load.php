@@ -10,3 +10,5 @@ function validate_certancial($username,$password){
         return false;
     }
 }
+?>
+<?php echo load?>
